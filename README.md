@@ -1,5 +1,6 @@
 # Hi There, 👋 I'm Denis 
-
+![Denis wachira's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniswachira&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deniswachira&layout=compact)
 
 # Languages & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
